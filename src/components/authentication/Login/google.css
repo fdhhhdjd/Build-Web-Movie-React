@@ -1,0 +1,29 @@
+.google{
+    position: absolute!important;
+    bottom:0px;
+    left:0px;
+    top:60px;
+    right: 0px;
+    width: 400px !important;
+    text-align: center
+}
+.facebook{
+    width: 400px;
+    height: 278px;
+    bottom:300px;
+    left:95px;
+    position: relative !important;
+
+    border-radius: 15px;
+    background-color: #fff;
+}
+.account{
+text-align: center;
+color: black;
+background: #fff;
+  background: -webkit-radial-gradient(#fff, #eaeaea); 
+  background: -o-radial-gradient(#fff, #eaeaea); 
+  background: -moz-radial-gradient(#fff, #eaeaea);
+  background: radial-gradient(#fff, #eaeaea);
+  border-radius: 10px; 
+}
